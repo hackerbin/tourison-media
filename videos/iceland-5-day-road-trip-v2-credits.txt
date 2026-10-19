@@ -1,0 +1,79 @@
+Tourison 'Iceland in 5 days: skip the Ring Road' - V2 credits
+File: iceland-5-day-road-trip-v2.mp4 (1080x1920, 30 fps, H.264 High, silent AAC 48 kHz, 31.6 s). No music.
+Rendered 20 Oct 2026. Fonts: Archivo Black (OFL), Schibsted Grotesk (OFL).
+All photos: Wikimedia Commons, adapted (uniform scale + centre-crop to 9:16, pan/zoom, text overlaid).
+
+08-skogafoss  [0.0-2.5 s]  SKIP THE
+  Title: File:Skógafoss July 2014.JPG
+  Author: Martin Falbisoner
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG
+
+02-bluelagoon  [2.5-4.3 s]  DAY 1
+  Title: File:Blue Lagoon with Þorbjörn, Iceland, 20230430 1626 3692.jpg
+  Author: Jakub Hałun
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn,_Iceland,_20230430_1626_3692.jpg
+
+03-reykjavik  [4.3-6.1 s]  DAY 1
+  Title: File:View of Reykjavík from Hallgrímskirkja, 20230507 1229 5733.jpg
+  Author: Jakub Hałun
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:View_of_Reykjav%C3%ADk_from_Hallgr%C3%ADmskirkja,_20230507_1229_5733.jpg
+
+04-thingvellir  [6.1-7.9 s]  DAY 2
+  Title: File:Þingvellir, Almannagjá 02.jpg
+  Author: Syrio
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir,_Almannagj%C3%A1_02.jpg
+
+05-strokkur  [7.9-9.7 s]  DAY 2
+  Title: File:Strokkur in eruption, Geysir Geothermal Field, Haukadalur, Iceland, 20230501 0902 3743.jpg
+  Author: Jakub Hałun
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Strokkur_in_eruption,_Geysir_Geothermal_Field,_Haukadalur,_Iceland,_20230501_0902_3743.jpg
+
+06-gullfoss  [9.7-11.5 s]  DAY 2
+  Title: File:Gullfoss, Suðurland, Islandia, 2014-08-16, DD 119.JPG
+  Author: Diego Delso
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Gullfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_119.JPG
+
+07-seljalandsfoss  [11.5-13.3 s]  DAY 3
+  Title: File:Seljalandsfoss July 2014 -1.JPG
+  Author: Martin Falbisoner
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Seljalandsfoss_July_2014_-1.JPG
+
+08-skogafoss  [13.3-15.1 s]  DAY 3
+  Title: File:Skógafoss July 2014.JPG
+  Author: Martin Falbisoner
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG
+
+09-reynisfjara  [15.1-17.1 s]  DAY 3
+  Title: File:Reynisfjara-46-Basalt-2018-gje.jpg
+  Author: Gerd Eichmann
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Reynisfjara-46-Basalt-2018-gje.jpg
+
+10-jokulsarlon  [17.1-19.0 s]  DAY 4
+  Title: File:Icebergs in the Jökulsárlón Glacier Lagoon, Iceland.jpg
+  Author: Marine SABRES
+  Licence: CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Icebergs_in_the_J%C3%B6kuls%C3%A1rl%C3%B3n_Glacier_Lagoon,_Iceland.jpg
+
+11-diamondbeach  [19.0-20.9 s]  DAY 4
+  Title: File:Black sand beach near Jökulsárlón bay.jpg
+  Author: Jakub Fryš
+  Licence: CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0
+  File page: https://commons.wikimedia.org/wiki/File:Black_sand_beach_near_J%C3%B6kuls%C3%A1rl%C3%B3n_bay.jpg
+
+12-route1-reynisfjall  [20.9-22.9 s]  DAY 5
+  Title: File:View of Route 1 and Reynisfjall mountain in Mýrdalshreppur municipality, Iceland, 20240719 1945 2815.jpg
+  Author: Jakub Hałun
+  Licence: CC BY 4.0  https://creativecommons.org/licenses/by/4.0
+  File page: https://commons.wikimedia.org/wiki/File:View_of_Route_1_and_Reynisfjall_mountain_in_M%C3%BDrdalshreppur_municipality,_Iceland,_20240719_1945_2815.jpg
+
+On-screen credit line (end card 2): Photos: Wikimedia Commons (CC BY / CC BY-SA 4.0), adapted. Full credits in caption.
+Logo: Tourison (own asset).
