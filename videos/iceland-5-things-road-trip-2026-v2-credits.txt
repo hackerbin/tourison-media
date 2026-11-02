@@ -1,0 +1,26 @@
+Tourison Reel: "5 things to know before an Iceland road trip (2026)" - credits (revision 2: parking + sand cover replace toll + km fee; campervan rule includes the private-land exception)
+File: iceland-5-things-road-trip-2026-v2.mp4 (1080x1920, 30 fps, H.264 High, silent AAC 48 kHz, 30.2 s). No music.
+Rendered 2 Nov 2026 (Asia/Dhaka) with src/render_v3.py. Fonts: Archivo Black (OFL), Schibsted Grotesk (OFL). Logo: Tourison (own asset).
+Facts: https://tourison.com/blog/iceland-5-day-road-trip (fetched 2 Nov 2026, HTTP 200).
+All photos: Wikimedia Commons, adapted (uniform scale + crop to 9:16, pan/zoom, text overlaid). Licences re-checked via the Commons API on 2 Nov 2026.
+CC BY-SA adaptations are offered under CC BY-SA 4.0.
+
+[0.0-3.0 s] Hook - Route 1 in Mýrdalshreppur municipality, Iceland
+  Author: Jakub Hałun | Licence: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+  https://commons.wikimedia.org/wiki/File:Route_1_in_M%C3%BDrdalshreppur_municipality,_Iceland,_20240720_1103_2923.jpg
+[3.0-7.2 s] 1 Parking - Seljalandsfoss
+  Author: Martin Falbisoner | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Seljalandsfoss_July_2014_-1.JPG
+[7.2-11.4 s] 2 Sand cover - Black sand beach near Jökulsárlón bay (Diamond Beach)
+  Author: Jakub Fryš | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Black_sand_beach_near_J%C3%B6kuls%C3%A1rl%C3%B3n_bay.jpg
+[11.4-15.6 s] 3 Reynisfjara - Reynisfjara basalt columns
+  Author: Gerd Eichmann | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Reynisfjara-46-Basalt-2018-gje.jpg
+[15.6-19.8 s] 4 Campervan - Skógafoss
+  Author: Martin Falbisoner | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG
+[19.8-24.0 s] 5 F-roads - Route 1 and Reynisfjall mountain
+  Author: Jakub Hałun | Licence: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+  https://commons.wikimedia.org/wiki/File:View_of_Route_1_and_Reynisfjall_mountain_in_M%C3%BDrdalshreppur_municipality,_Iceland,_20240719_1945_2815.jpg
+[24.0-30.2 s] End cards: brand colour + logo, no photos.
