@@ -1,0 +1,26 @@
+Tourison Reel: "5 things to know before a 10-day Japan trip (2026)" — credits
+File: japan10-v1-5-things.mp4 (1080x1920, 30 fps, H.264 High, silent AAC 48 kHz, 28.6 s, 18.69 MB). No music.
+Rendered 16 Nov 2026 (Asia/Dhaka) with src/render_reel_v1.py (same pipeline as Iceland render_v3.py / Portugal render_portugal_v1.py). Fonts: Archivo Black (OFL), Schibsted Grotesk (OFL). Logo: Tourison (own asset).
+Facts: https://tourison.com/blog/japan-itinerary-10-days-tokyo-kyoto-osaka (refetched 16 Nov 2026, HTTP 200). Prices from the page's cost section, checked 9 November 2026.
+All photos: the post's own Wikimedia Commons stills, adapted (uniform scale + crop to 9:16, pan/zoom, text overlaid). Author and licence re-checked via the Commons API on 16 Nov 2026.
+The stills remain under their original licences. This reel is an adaptation (crop, pan/zoom and text).
+
+[0.0-3.0 s] Hook — Kiyomizu-dera, Kyoto
+  Author: Martin Falbisoner | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg
+[3.0-7.0 s] 1 JR Pass — Fushimi Inari Taisha, Kyoto
+  Author: Luka Peternel | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Fushimi-Inari-Shrine-Senbon-Torii-2016-Luka-Peternel.jpg
+[7.0-11.0 s] 2 Tax-free — Dotonbori, Osaka
+  Author: Sakai Yayoi | Licence: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+  https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_yoru.jpg
+[11.0-15.0 s] 3 Big bags — Kaminarimon, Senso-ji, Tokyo
+  Author: Daderot | Licence: Public domain
+  https://commons.wikimedia.org/wiki/File:Kaminarimon_(outer_gate),_Sensoji_Temple,_Akakusa,_Tokyo.jpg
+[15.0-19.0 s] 4 Nozomi — Arashiyama Bamboo Grove, Kyoto
+  Author: Bjørn Christian Tørrissen | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Arashiyama-Bamboo-Grove-Sunset.jpg
+[19.0-23.0 s] 5 Hakone — Mount Fuji above Lake Ashi, Hakone
+  Author: Ken_Lee | Licence: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+  https://commons.wikimedia.org/wiki/File:Kanagawa_Hakone_Ashinoko_xl.jpg
+[23.0-28.6 s] End cards: brand colour + logo, no photos. CTA: "Full 10-day plan: link in bio · tourison.com". Credits card for Wikimedia / CC BY, CC BY-SA, CC0 and public-domain stills, with full credits in the caption.

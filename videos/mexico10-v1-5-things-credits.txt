@@ -1,0 +1,26 @@
+Tourison Reel: "5 things to know before a 10-day Mexico trip (2026)" — credits
+File: mexico10-v1-5-things.mp4 (1080x1920, 30 fps, H.264 High, silent AAC 48 kHz, 28.6 s, 16.25 MB). No music.
+Rendered 16 Nov 2026 (Asia/Dhaka) with src/render_reel_v1.py (same pipeline as Iceland render_v3.py / Portugal render_portugal_v1.py). Fonts: Archivo Black (OFL), Schibsted Grotesk (OFL). Logo: Tourison (own asset).
+Facts: https://tourison.com/blog/mexico-itinerary-10-days-mexico-city-yucatan-tulum (refetched 16 Nov 2026, HTTP 200, after Content's Tulum update). Ticket prices are the page's 2026 figures; the Tulum fee was checked 16 November 2026 on the official INAH Tulum page. The foreign-visitor ticket is 265 MXN (unified ticket including Parque del Jaguar, in force since 20 July 2026). The old 165 MXN figure is not used.
+All photos: the post's own Wikimedia Commons stills, adapted (uniform scale + crop to 9:16, pan/zoom, text overlaid). Author and licence re-checked via the Commons API on 16 Nov 2026.
+The stills remain under their original licences. This reel is an adaptation (crop, pan/zoom and text).
+
+[0.0-3.0 s] Hook — Tulum Maya ruins from the air
+  Author: Dronepicr | Licence: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+  https://commons.wikimedia.org/wiki/File:Tulum_Mayan_Ruins_(213574099).jpeg
+[3.0-7.0 s] 1 Tulum — El Castillo at the Tulum archaeological zone
+  Author: Martin Falbisoner | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Tulum_-_Castillo.JPG
+[7.0-11.0 s] 2 Chichén Itzá — Pyramid of Kukulcán (El Castillo)
+  Author: Daniel Schwen | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg
+[11.0-15.0 s] 3 Visitax — Cathedral of San Servacio, Valladolid, Yucatán
+  Author: Gage Skidmore | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Cathedral_of_San_Servacio,_Valladolid,_Yucatan_2026.jpg
+[15.0-19.0 s] 4 Casa Azul — Museo Frida Kahlo, Coyoacán, Mexico City
+  Author: Alex1210O | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Museo_Frida_Kahlo_(exterior).jpg
+[19.0-23.0 s] 5 Teotihuacan — Pyramid of the Sun
+  Author: HighVibrationStation | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Teotihuacan_Pyramid_of_the_sun_from_the_front.jpg
+[23.0-28.6 s] End cards: brand colour + logo, no photos. CTA: "Full 10-day plan: link in bio · tourison.com". Credits card for Wikimedia / CC BY and CC BY-SA adaptations, with full credits in the caption.
