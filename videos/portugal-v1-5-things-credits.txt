@@ -1,0 +1,26 @@
+Tourison Reel: "5 things to know before a 7-day Portugal trip (2026)" — credits
+File: portugal-v1-5-things.mp4 (1080x1920, 30 fps, H.264 High, silent AAC 48 kHz, 28.6 s, 12.65 MB). No music.
+Rendered 16 Nov 2026 (Asia/Dhaka) with src/render_portugal_v1.py (same pipeline as Iceland render_v3.py). Fonts: Archivo Black (OFL), Schibsted Grotesk (OFL). Logo: Tourison (own asset).
+Facts: https://tourison.com/blog/portugal-itinerary-7-days-lisbon-sintra-porto (live page saved 16 Nov 2026, HTTP 200). Prices from the page's cost section, checked 15 November 2026.
+All photos: the post's own Wikimedia Commons stills, adapted (uniform scale + crop to 9:16, pan/zoom, text overlaid). Author and licence re-checked via the Commons API on 16 Nov 2026.
+The stills remain under their original licences. This reel is an adaptation (crop, pan/zoom and text).
+
+[0.0-3.0 s] Hook — Palácio da Pena, Sintra, Portugal
+  Author: CEphoto, Uwe Aranas | Licence: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+  https://commons.wikimedia.org/wiki/File:Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg
+[3.0-7.0 s] 1 Belém — Jerónimos Monastery, Belém, Lisbon
+  Author: Jakub Hałun | Licence: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+  https://commons.wikimedia.org/wiki/File:Jer%C3%B3nimos_Monastery_in_Bel%C3%A9m,_Lisbon,_20250604_1343_9263.jpg
+[7.0-11.0 s] 2 Pena — Palácio da Pena, Sintra, Portugal (same still as the hook, different crop/zoom)
+  Author: CEphoto, Uwe Aranas | Licence: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+  https://commons.wikimedia.org/wiki/File:Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg
+[11.0-15.0 s] 3 Lisbon fares — Tram 28, Lisbon
+  Author: Ewan Munro from London, UK | Licence: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+  https://commons.wikimedia.org/wiki/File:Tram_28_(5833810313).jpg
+[15.0-19.0 s] 4 Sintra train — Battlements of the Moorish Castle, Sintra
+  Author: Adam Jones from Kelowna, BC, Canada | Licence: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+  https://commons.wikimedia.org/wiki/File:Battlements_of_Moorish_Castle_-_Sintra_-_Portugal_(4635656953).jpg
+[19.0-23.0 s] 5 Lello — Interior of Livraria Lello, Porto
+  Author: John Samuel | Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  https://commons.wikimedia.org/wiki/File:Interior_view_of_Livraria_Lello_03.jpg
+[23.0-28.6 s] End cards: brand colour + logo, no photos. CTA: "Full 7-day plan: link in bio · tourison.com". Credits card for Wikimedia / CC BY and CC BY-SA adaptations, with full credits in the caption.
